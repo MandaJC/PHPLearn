@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="76c652dd-8b04-4953-95db-f3b4f5ac5cde" name="lyle" url="http://111.230.179.154">
+        <fileTransfer host="111.230.179.154" port="22" rootFolder="/var/www/html/wj" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
